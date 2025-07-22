@@ -44,8 +44,8 @@ To run this project locally, please follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/YourUsername/YourRepositoryName.git
-cd YourRepositoryName
+git clone https://github.com/SManoj-2006/EduNet
+cd EduNet
 
 2. Create a virtual environment (recommended):
 
